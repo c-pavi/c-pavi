@@ -50,12 +50,4 @@ My academic journey has pushed me to develop solid fundamentals in programming, 
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: **c.pavishan@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/pavi-chandrakumar/
-- 🧑‍💻 GitHub: https://github.com/c-pavi
-
----
-
 Thanks for visiting! I’m always learning, building, and open to feedback or collaboration.
